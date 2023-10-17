@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD1DC491-D22C-476A-A9BB-C0082026B73F}|Umbraco.Web.UI">
+  <MonoDevelop.Ide.ItemProperties.UmbracoProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UmbracoProject/Program.cs">
+    <Files>
+      <File FileName="UmbracoProject/Views/Master.cshtml" Line="42" Column="8" />
+      <File FileName="UmbracoProject/ContentDeliveryApi/Login.cs" Line="7" Column="6" />
+      <File FileName="UmbracoProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UmbracoProject" expanded="True">
+            <Node name="UmbracoProject" expanded="True" selected="True">
+              <Node name="ContentDeliveryApi" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

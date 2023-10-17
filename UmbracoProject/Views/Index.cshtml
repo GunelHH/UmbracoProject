@@ -1,0 +1,29 @@
+﻿@using Umbraco.Cms.Web.Common.PublishedModels;
+@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.Index>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@{
+	Layout = "Master.cshtml";
+}
+
+<main>
+    <div class="main d-flex justify-content-center pb-5 border-bottom border-dark font-weight-bold">
+        <div class="box mw-100">
+            <form class="border border-1 pt-4 pb-4 pl-3 pr-3 widthAuto">
+                <div class="username mb-3">
+                    <label for="username" class="d-block m-0">Username: </label>
+                    <input id="username" class="pl-2 pr-2" type="text" />
+                </div>
+                <div class="password">
+                    <label for="password" class="d-block m-0">Password: </label>
+                    <input id="password" class="pl-2 pr-2" type="password" />
+                </div>
+                <div class="button-custom text-center bg-white">
+                    <button type="submit" id="btn-custom" class="font-weight-bold">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+
+
